@@ -1,0 +1,17 @@
+{
+  "name": "flavio-github-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "browserslist": [
+    "since 2017-06"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
